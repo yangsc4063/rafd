@@ -17,6 +17,8 @@
 
 ## News
 
+- [2026/01/18] 🚀RaFD is accepted to ICASSP 2026!
+- [2025/09/18] Paper released on [arXiv](https://arxiv.org/abs/2509.16261).
 - [2025/09/18] This repository has been created for paper, and code will be released after acceptance.
 
 ## Abstract
