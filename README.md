@@ -31,15 +31,6 @@ Radar has shown strong potential for robust perception in autonomous driving; ho
 
 ![overview](figs/rafd.png)
 
-## Model Zoo
-
-| Backbone | Method | Split | mAP@0.7 | mAP@0.5 | mAP@0.3 | Config | Download |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| R34+FPN | RaFD (2) | Train good weather | - | - | - |[config]() |[model]() |
-| R34+FPN | RaFD (2) | Train good & bad weather | - | - | - |[config]() |[model]() |
-| R34+FPN | RaFD (4) | Train good weather | - | - | - |[config]() |[model]() |
-| R34+FPN | RaFD (4) | Train good & bad weather | - | - | - |[config]() |[model]() |
-
 ## Visualization
 
 **Qualitative Results on RADIATE Dataset:**
